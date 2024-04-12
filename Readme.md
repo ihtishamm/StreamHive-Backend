@@ -1,3 +1,3 @@
- # Streamhive
+ # StreamHive
 
    this is the backend of video streaming web application...
